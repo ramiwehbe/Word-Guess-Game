@@ -1,1 +1,1 @@
-# Word-Guess-Game
+Modernized Hangman Game
